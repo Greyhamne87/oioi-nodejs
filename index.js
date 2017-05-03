@@ -188,7 +188,6 @@ app.post('/user/listItem', jsonParser, function(req, res, next) {
                 obj: result
             });
         });
-        //
     });
 });
 
